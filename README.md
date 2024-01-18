@@ -1,5 +1,3 @@
-# fstanziola.github.io
-
 # Francesco Stanzioia
 
 ## architect and phd student
