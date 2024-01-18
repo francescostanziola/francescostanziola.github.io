@@ -1,6 +1,6 @@
 # Francesco Stanzioia
 
-## architect and phd student
+## architect and PhD student
 
 <img align="right" width="auto" height="300" src="profile pic 2.jpg">
 
