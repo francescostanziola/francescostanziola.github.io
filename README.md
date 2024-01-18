@@ -1,4 +1,4 @@
-# Francesco Stanzioia
+l# Francesco Stanzioia
 
 ## architect and PhD student
 
@@ -10,7 +10,7 @@ I have participated in presentations on architectural survey and representation 
 
 Currently, I am exploring emerging methodologies for immersive 3D reconstructions, aligning with my deep interest in architectural representation and visual communication.
 
-I enjoy scuba diving, flying, electronic music production, and DJing, and many other ways to explore the beauty of the world :)
+I enjoy scuba diving, flying, electronic music production, and DJing, and many other ways of exploring the beauty of the world :)
 
 Contact: francesco.stanziola[at]uniroma1.it
 
