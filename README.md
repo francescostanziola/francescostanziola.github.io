@@ -10,7 +10,7 @@ I have participated in presentations on architectural survey and representation 
 
 Currently, I am exploring emerging methodologies for immersive 3D reconstructions, aligning with my deep interest in architectural representation and visual communication.
 
-I enjoy scuba diving, flying, electronic music production, and DJing, as ways to explore the beauty of the world.
+I enjoy scuba diving, flying, electronic music production, and DJing, as ways to explore the beauty of the world :)
 
 Contact: francesco.stanziola[at]uniroma1.it
 
