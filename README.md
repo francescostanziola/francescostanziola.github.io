@@ -1,101 +1,18 @@
 # fstanziola.github.io
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Francesco Stanzioia - Academic Portfolio</title>
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-        background-color: #f4f4f4;
-    }
-    .container {
-        width: 80%;
-        margin: auto;
-        overflow: hidden;
-    }
-    header {
-        background: #333;
-        color: #fff;
-        padding-top: 30px;
-        min-height: 70px;
-        border-bottom: #333 3px solid;
-    }
-    header a {
-        color: #fff;
-        text-decoration: none;
-        text-transform: uppercase;
-        font-size: 16px;
-    }
-    header ul {
-        padding: 0;
-        list-style: none;
-    }
-    header li {
-        display: inline;
-        padding: 0 20px 0 20px;
-    }
-    header #branding {
-        float: left;
-    }
-    header #branding h1 {
-        margin: 0;
-    }
-    header nav {
-        float: right;
-        margin-top: 10px;
-    }
-    header .highlight, header .current a {
-        color: #e8491d;
-        font-weight: bold;
-    }
-    header a:hover {
-        color: #ffffff;
-        font-weight: bold;
-    }
-    .ascii-art {
-        font-family: monospace;
-        white-space: pre;
-        overflow: auto;
-        background-color: #000;
-        color: #fff;
-        padding: 10px;
-    }
-</style>
-</head>
-<body>
-<header>
-    <div class="container">
-        <div id="branding">
-            <h1>Francesco Stanzioia</h1>
-        </div>
-        <nav>
-            <ul>
-                <li class="current"><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Portfolio</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </nav>
-    </div>
-</header>
+# Francesco Stanzioia
 
-<section class="container">
-    <h2>Academic Profile</h2>
-    <p>
-        <!-- Profile content here -->
-    </p>
-    <div class="ascii-art">
-        <!-- ASCII art here -->
-    </div>
-</section>
+## Academic Profile
 
-<footer>
-    <p>Francesco Stanzioia, &copy; 2024</p>
-</footer>
-</body>
-</html>
+I am an architect and a PhD student in History, Representation, and Restoration of Architecture at Sapienza University of Rome. I received a scholarship in the scientific field of Representation (ICAR 17), which is dedicated to the digitalization and communication of the Architectural Heritage of Centola, Italy. My primary area of interest is in surveying, representing, and communicating architecture and architectural heritage through digital methodologies. I am particularly focused on the quality of data and the effectiveness of digital models as tools for knowledge dissemination.
+
+I have participated in presentations on architectural survey and representation at both Sapienza University of Rome and the University of São Paulo (IAU.USP). I serve as a tutor in workshops and courses focused on 3D laser scanning and digital photogrammetry. Additionally, I am part of the editorial team of "Contemporary Heritage Lexicon," an upcoming volume by Springer which discusses [specific topic].
+
+Currently, I am exploring emerging methodologies for immersive 3D reconstructions, aligning with my deep interest in architectural representation and visual communication.
+
+I enjoy scuba diving, flying, electronic music production, and DJing, as ways to explore the beauty of the world.
+
+Contact: francesco.stanzioia[at]uniroma1.it
+
+## ASCII Art
+
