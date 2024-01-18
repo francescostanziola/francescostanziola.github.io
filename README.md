@@ -10,7 +10,7 @@ Currently, I am exploring emerging methodologies for immersive 3D reconstruction
 
 I enjoy scuba diving, flying, electronic music production, and DJing, as ways to explore the beauty of the world.
 
-Contact: francesco.stanzioia[at]uniroma1.it
+Contact: francesco.stanziola[at]uniroma1.it
 
 
 
