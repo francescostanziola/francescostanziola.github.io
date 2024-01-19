@@ -12,7 +12,7 @@ Hello! I am an architect and a PhD student in History, Representation, and Resto
 
 👨🏻‍💻 Currently, I am exploring emerging methodologies for immersive 3D reconstructions, aligning with my deep interest in architectural representation and visual communication.
 
-I enjoy scuba diving, flying, electronic music production, and DJing, and many other ways of exploring the beauty of the world 😊
+I enjoy scuba diving, flying, electronic music production, and DJing, and many other ways of exploring the beauty of the world 🗺️
 
 Contact: francesco.stanziola[at]uniroma1.it
 
